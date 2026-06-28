@@ -1,16 +1,130 @@
-# React + Vite
+# 🚀 TypeSprint
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and interactive **TypeRacer-inspired typing website** built to help users improve their typing speed and accuracy through multiple typing modes. TypeSprint is designed with a clean, responsive interface and will eventually support real-time multiplayer races, leaderboards, and competitive gameplay.
 
-Currently, two official plugins are available:
+> **⚠️ Project Status:** Currently under active development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features Implemented
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🎨 Modern UI
 
-## Expanding the Oxlint configuration
+* Clean and responsive user interface
+* Interactive homepage layout
+* Smooth and user-friendly design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### ⌨️ Solo Typing Mode
+
+Practice typing individually and measure your performance in real time.
+
+### 📝 Quote Mode
+
+Type meaningful quotes and improve your speed and accuracy.
+
+### 🔤 Word Mode
+
+Practice typing randomly generated words to enhance typing consistency.
+
+### 💻 Code Mode
+
+Type code snippets to improve programming typing speed and accuracy.
+
+### 📊 Live Typing Statistics
+
+* Words Per Minute (WPM)
+* Accuracy
+* Typing Speed
+* Real-time performance tracking
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript (Vanilla)
+
+---
+
+## 📁 Current Project Status
+
+✅ Basic UI Completed
+
+✅ Solo Typing Functionality
+
+✅ Quote Mode
+
+✅ Word Mode
+
+✅ Code Mode
+
+✅ Sample Paragraph Support
+
+🚧 Multiplayer Mode (In Progress)
+
+🚧 User Authentication
+
+🚧 Friends & Private Rooms
+
+🚧 Real-time Racing
+
+🚧 Leaderboards
+
+🚧 User Profiles
+
+---
+
+## 🎯 Future Roadmap
+
+* 🌐 Real-time Multiplayer Races
+* 👥 Create and Join Private Rooms
+* 🏆 Global Leaderboards
+* 🔥 Daily Challenges
+* 📈 Personal Statistics Dashboard
+* 🎖️ Achievements and Badges
+* 🌙 Dark/Light Theme
+* 🎨 More Typing Themes
+* 📱 Fully Responsive Design
+* 👤 User Login & Authentication
+* ☁️ Database Integration
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/TypeSprint.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd TypeSprint
+```
+
+3. Open `index.html` in your browser.
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feature requests are always welcome. Feel free to fork the repository and submit a pull request.
+
+---
+
+## 📌 About the Project
+
+TypeSprint is more than just a typing test. The long-term goal is to build a competitive typing platform where users can challenge friends, participate in multiplayer races, track their progress, and improve their typing skills in an engaging environment.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+### ⭐ If you like this project, don't forget to star the repository!
