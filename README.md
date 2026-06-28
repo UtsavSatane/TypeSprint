@@ -119,11 +119,6 @@ Contributions, suggestions, and feature requests are always welcome. Feel free t
 
 TypeSprint is more than just a typing test. The long-term goal is to build a competitive typing platform where users can challenge friends, participate in multiplayer races, track their progress, and improve their typing skills in an engaging environment.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
